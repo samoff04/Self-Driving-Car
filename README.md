@@ -25,7 +25,7 @@ This project demonstrates a simple autonomous driving system using rule-based AI
 ---
 
 ## Project Structure
-
+```
 auto-drive-sim/
 ├── main.py        
 ├── car.py         
@@ -33,7 +33,7 @@ auto-drive-sim/
 ├── road.py        
 ├── config.py      
 ├── requirements.txt
-
+```
 ---
 
 ## How to Run
