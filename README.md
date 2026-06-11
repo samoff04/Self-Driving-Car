@@ -26,7 +26,7 @@ This project demonstrates a simple autonomous driving system using rule-based AI
 
 ## Project Structure
 ```
-auto-drive-sim/
+Self-Driving-Car/
 ├── main.py        
 ├── car.py         
 ├── obstacle.py    
